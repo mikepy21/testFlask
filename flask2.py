@@ -1,5 +1,5 @@
 # flask depends on this env variable to find the main file
-export FLASK_APP=hello.py
+export FLASK_APP=flask1.py
 
 # now we just need to ask flask to run
 flask run
