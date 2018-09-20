@@ -5,9 +5,10 @@ app = Flask(__name__)
 l=[]
 l.append(1873184)
 l.append('a')
-l.append("jsdk23178371287932jskjhjhluhjkhu")
-l.append("83274083274837ac")
-l.append("672163723964")
+l.append("jsdkjskjhjhluhjkhu1")
+l.append("<'n'>")
+l.append("n_n")
+
 
 
 @app.route("/")
