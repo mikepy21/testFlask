@@ -6,8 +6,8 @@ l=[]
 l.append(1)
 l.append('a')
 l.append("jsdkjskjhjhluhjkhu")
-l.append("6378642376396")
-l.append("jsdkjskj")
+l.append("<'n'>")
+l.append("n_n")
 
 
 @app.route("/")
