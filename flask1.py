@@ -4,8 +4,12 @@ app = Flask(__name__)
 c=[]
 l=[]
 l.append(1873184)
+<<<<<<< HEAD
 l.append('(dob)')
 c.append('skjkl')
+=======
+l.append('.i.')
+>>>>>>> master
 l.append("=(^)=")
 l.append("<'n'>")
 l.append("n_n")
